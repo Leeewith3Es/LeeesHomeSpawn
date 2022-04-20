@@ -1,0 +1,6 @@
+name: LeeesHomeSpawn
+version: ${project.version}
+main: Leees.Home.Spawn.Main
+commands:
+  home:
+    description: home
